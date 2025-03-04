@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FilePath&Sequence_1",
+        "dt_pedidos&Sequence_2",
+        "Comentarios&Sequence_2",
+        "Cantidad&Sequence_2",
+        "CodigoColor&Sequence_2",
+        "OrdenDeCompra&Sequence_3",
+        "NoPedido&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
