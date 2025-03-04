@@ -1,2 +1,1 @@
-documents/*    # Ignorar todo dentro de la carpeta documents
-!documents/.gitignore  # Permitir solo el .gitignore dentro de la carpeta
+documents/*
